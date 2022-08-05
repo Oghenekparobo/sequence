@@ -1,0 +1,29 @@
+body{
+    font-size: 2rem;
+    background-color: fuchsia;
+    color: brown;
+}
+
+.input{
+text-align: center;
+}
+
+input{
+    padding: 2rem 4rem;
+    margin: 2rem;
+}
+
+.b-s{
+    background-color: blue;
+    color: azure;
+    font-size: 2rem;
+    padding: 2rem 6rem;
+    cursor: pointer;
+}
+
+
+.b-s:hover{
+    background-color: black;
+    color: azure;
+   
+}
